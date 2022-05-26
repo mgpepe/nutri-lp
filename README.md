@@ -11,3 +11,10 @@
 1. I have written a v1. Maybe it makes sense to leave it as is and just create v2, v3 with respective changes described in the comment
 2. in reality there are two groups of ingredients - over 2% and optionally under 2%. The difference is that ingredients over 2% are always sorted according to the quantity starting with what is most of. However this rule does not apply to products under 2% if such are listed by the manufacturer on the nutrition label. I have not implemented this logic yet. 
 3. please excuse some of the camelCase variables in python, they come from the Javascript code. 
+
+## Cheetos sample target
+From laboratory testing we know for sure the following numbers:
+fat - 39%
+protein - 0.3%
+glucose - 56%
+saccharose - 2.7%
