@@ -16,5 +16,6 @@
 From laboratory testing we know for sure the following numbers:
 fat - 39%
 protein - 0.3%
-glucose - 56%
-saccharose - 2.7%
+carbs - 56%
+sugar - 2.7%
+carbs = starch + fiber + sugars
